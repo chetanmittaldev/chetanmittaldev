@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Language Geek and CTO with a strong interest in building projects that are accessible to everyone. You can check my [company website](https://www.rightapp4u.com).
+I am a Language Geek and Educator with a strong interest in building projects that are accessible to everyone.
 
 Learning new things fills me with excitement and I am always eager to share my learning in public and pass on my knowledge through [my blog](https://blog.chetanmittaldev.com) and [Twitter](https://twitter.com/chetanmittaldev).
 
